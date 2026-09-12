@@ -6,7 +6,7 @@
 **Assigned City**: Mumbai  
 **Assigned Locality**: Borivali West  
 **Reference Timestamp**: `2026-09-10T00:00:00+05:30` (IST)  
-**Repository**: [https://github.com/HappyNoob0/ivy-homes-frontend](https://github.com/HappyNoob0/ivy-homes-frontend)  
+**Repository**: [https://github.com/riyav1606/ivy-homes-frontend](https://github.com/riyav1606/ivy-homes-frontend)  
 **Live Demo**: [https://ivy-homes-frontend.vercel.app](https://ivy-homes-frontend.vercel.app)
 
 ---

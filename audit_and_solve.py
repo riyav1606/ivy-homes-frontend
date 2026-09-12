@@ -353,7 +353,7 @@ submission_data = {
     "candidate": {
         "name": "Trayambak Nath Tiwari",
         "email": "20235151@mnnit.ac.in",
-        "repo_url": "https://github.com/HappyNoob0/ivy-homes-frontend",
+        "repo_url": "https://github.com/riyav1606/ivy-homes-frontend",
         "demo_url": "https://ivy-homes-frontend.vercel.app"
     },
     "answers": {

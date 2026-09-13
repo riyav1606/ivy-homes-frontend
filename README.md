@@ -1,8 +1,8 @@
 # Ivy Homes — Technical Assignment (Frontend & Data Audit)
 
-**Candidate**: Trayambak Nath Tiwari  
-**College Email**: `20235151@mnnit.ac.in`  
-**API Key**: `IVY26-99BAF92DE5A1`  
+**Candidate**: Riya Sunil Vairale 
+**College Email**: `vairale.20235093@mnnit.ac.in`  
+**API Key**: `Your_API_KEY`  
 **Assigned City**: Mumbai  
 **Assigned Locality**: Borivali West  
 **Reference Timestamp**: `2026-09-10T00:00:00+05:30` (IST)  

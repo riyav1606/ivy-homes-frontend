@@ -7,8 +7,8 @@ import time
 os.environ["NO_PROXY"] = "*"
 
 BASE_URL = "https://solve.ivy.homes"
-API_KEY = "IVY26-99BAF92DE5A1"
-PASSWORD = "acb9e1f812"
+API_KEY = "YOUR_API_KEY"
+PASSWORD = "xyz"
 
 session = requests.Session()
 session.trust_env = False

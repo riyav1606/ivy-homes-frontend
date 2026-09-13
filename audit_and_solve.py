@@ -14,7 +14,7 @@ with open(os.path.join(DATA_DIR, "rentals.json"), "r", encoding="utf-8") as f:
 with open(os.path.join(DATA_DIR, "projects.json"), "r", encoding="utf-8") as f:
     projects = json.load(f)
 
-API_KEY = "IVY26-99BAF92DE5A1"
+API_KEY = "YOUR_API_KEY"
 ASSIGNED_LOCALITY = "borivali west"
 REFERENCE_IST = datetime.fromisoformat("2026-09-10T00:00:00+05:30")
 REFERENCE_UTC = REFERENCE_IST.astimezone(timezone.utc)

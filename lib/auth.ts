@@ -1,8 +1,8 @@
 import { AuthSession, User } from "./types";
 
-export const API_KEY = "YOUR_API_KEY";
+export const API_KEY = "IVY26-99BAF92DE5A1";
 export const BASE_URL = "https://solve.ivy.homes";
-export const DEMO_PASSWORD = "xyz";
+export const DEMO_PASSWORD = "acb9e1f812";
 
 const SESSION_KEY = "ivy_auth_session";
 const FAVOURITES_PREFIX = "ivy_favs_";

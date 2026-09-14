@@ -14,7 +14,7 @@ with open(os.path.join(DATA_DIR, "rentals.json"), "r", encoding="utf-8") as f:
 with open(os.path.join(DATA_DIR, "projects.json"), "r", encoding="utf-8") as f:
     projects = json.load(f)
 
-API_KEY = "YOUR_API_KEY"
+API_KEY = "IVY26-99BAF92DE5A1"
 ASSIGNED_LOCALITY = "borivali west"
 REFERENCE_IST = datetime.fromisoformat("2026-09-10T00:00:00+05:30")
 REFERENCE_UTC = REFERENCE_IST.astimezone(timezone.utc)
@@ -351,9 +351,9 @@ findings = [
 submission_data = {
     "api_key": API_KEY,
     "candidate": {
-        "name": "Trayambak Nath Tiwari",
-        "email": "20235151@mnnit.ac.in",
-        "repo_url": "https://github.com/riyav1606/ivy-homes-frontend",
+        "name": "Riya Sunil Vairale",
+        "email": "vairale.20235093@mnnit.ac.in",
+        "repo_url": "https://github.com/riyav1606/Ivy_Homes_Asssignment",
         "demo_url": "https://ivy-homes-frontend.vercel.app"
     },
     "answers": {

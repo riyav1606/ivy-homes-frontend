@@ -1,12 +1,12 @@
 # Ivy Homes — Technical Assignment (Frontend & Data Audit)
 
-**Candidate**: Riya Sunil Vairale 
+**Candidate**: Riya Sunil Vairale  
 **College Email**: `vairale.20235093@mnnit.ac.in`  
-**API Key**: `Your_API_KEY`  
+**API Key**: `IVY26-99BAF92DE5A1`  
 **Assigned City**: Mumbai  
 **Assigned Locality**: Borivali West  
 **Reference Timestamp**: `2026-09-10T00:00:00+05:30` (IST)  
-**Repository**: [https://github.com/riyav1606/ivy-homes-frontend](https://github.com/riyav1606/ivy-homes-frontend)  
+**Repository**: [https://github.com/riyav1606/Ivy_Homes_Asssignment](https://github.com/riyav1606/Ivy_Homes_Asssignment)  
 **Live Demo**: [https://ivy-homes-frontend.vercel.app](https://ivy-homes-frontend.vercel.app)
 
 ---
